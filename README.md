@@ -17,16 +17,6 @@ I used 2 methods to solve this task:
 
 You could find unrealized methods in some notebooks in the `notebooks` folder.
 
-## How it looks like
-
-### Web-service
-
-![](.images/summarization.png)
-
-### Telegram bot (now not active)
-
-<img src=".images/telegram-bot.png" width="25%">
-
 ## Setup environment
 
 ### Linux/macOS
@@ -59,22 +49,12 @@ You should create .env in root folder and add your OPENAI_API_KEY to it.
 OPENAI_API_KEY=<YOUR_OPENAI_API_KEY>
 ```
 
-### Telegram Bot
+## Web-service
 
-Also add telegram bot token to .env
-
-```.env
-API_KEY=<YOUR_TELEGRAM_BOT_TOKEN>
-```
-
-and then run
-
-```bash
-python telegram_app.py
-```
-
-### Streamlit App
+![](.images/summarization.png)
 
 ```bash
 streamlit run streamlit_app.py
 ```
+
+And go by link in terminal.
