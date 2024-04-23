@@ -2,12 +2,12 @@
 
 ## Overview
 
-Task is to create web-service to sort documents by type of contract. \
+Task is to create web-service to sort documents by type of contract. 
 Also we need to interpret the contract and extract some information from it.
 
 ## Methods
 
-I have created web-service with streamlit. \
+I have created web-service with streamlit. 
 
 I used 2 methods to solve this task:
 
