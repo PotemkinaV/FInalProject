@@ -8,7 +8,6 @@ Also we need to interpret the contract and extract some information from it.
 ## Methods
 
 I have created web-service with streamlit. \
-But also I have created simple telegram bot.
 
 I used 2 methods to solve this task:
 
